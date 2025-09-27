@@ -41,7 +41,7 @@
 ```json
 {
   "dependencies": {
-    "com.yf.utils": "https://github.com/yourusername/unity-utils-project.git?path=/Assets/Utils"
+    "com.yf.utils": "https://github.com/yunyi0120/Util.git?path=/Assets/Utils"
   }
 }
 ```
