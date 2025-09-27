@@ -1,7 +1,7 @@
 {
   "name": "com.yf.utils",
-  "version": "1.0.0",
-  "displayName": "Unity Utils",
+  "version": "1.0.1",
+  "displayName": "Custom Utils",
   "description": "个人工具包，包含各种Unity开发中常用的实用工具",
   "unity": "2021.3",
   "unityRelease": "0f1",
